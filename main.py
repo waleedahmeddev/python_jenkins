@@ -2,7 +2,7 @@
 class MyClass:
 
 	def myMethod(self):
-		return True
+		return False
 
 
 #print(MyClass().myMethod())
